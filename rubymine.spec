@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 Summary:	The Most Intelligent Ruby and Rails IDE
 Name:		rubymine
 Version:	2016.2.5
